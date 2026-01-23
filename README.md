@@ -39,23 +39,23 @@
 </picture>
  
 <p align="center">
-  <!-- Spotify recently played (kiri) -->
+  <!-- Spotify recently played -->
   <img
     src="https://spotify-recently-played-readme.vercel.app/api?user=31xkhikrb4fdjxsegmdhoawdkmyy"
-    height="165"
+    width="280"
   />
 
-  <!-- GitHub stats (tengah) -->
+  <!-- GitHub stats -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=akmal13-art&show_icons=true&theme=tokyonight"
-    height="165"
+    width="280"
   />
 
-  <!-- Spotify profile card (kanan) -->
+  <!-- Spotify profile card -->
   <a href="https://open.spotify.com/user/31xkhikrb4fdjxsegmdhoawdkmyy">
     <img
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mnmomj5jexandi7fuetm3u5vnu&theme=default"
-      height="165"
+      width="280"
     />
   </a>
 </p>
